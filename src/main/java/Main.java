@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main extends Thread {
+public class Main {
     static final int SIZE = 100000000;
     static final int HALF = SIZE / 8;
     static float[] arr = new float[SIZE];
